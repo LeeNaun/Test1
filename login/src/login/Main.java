@@ -13,7 +13,7 @@ public class Main {
 		 * 2
 		 * (작업중)
 		 */
-		
+		System.out.println("로그인을 시작하지");
 		Scanner sc = new Scanner(System.in);
 		Check check = new Check();
 		String id = null, pw;
