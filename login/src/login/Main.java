@@ -14,6 +14,7 @@ public class Main {
 		 * (작업중)
 		 */
 		System.out.println("로그인을 시작하지");
+		System.out.println("가보자고");
 		Scanner sc = new Scanner(System.in);
 		Check check = new Check();
 		String id = null, pw;
